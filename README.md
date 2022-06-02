@@ -1,2 +1,2 @@
 # ShoeFinder
-We are going to find you some shoes
+We are going to find you the shoes you want
